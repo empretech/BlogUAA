@@ -1,0 +1,19 @@
+{
+  "name": "uaa",
+  "version": "0.0.1",
+  "description": "Uaa Frontend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Diego Cortez",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^3.4.2"
+  }
+}
