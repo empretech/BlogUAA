@@ -275,6 +275,7 @@ ul {
 {
 	#main-container #main-sections-container section article {
     clear: right;
+	width: 100%;
 	height: 88%;
 	top: 10px;
 	position: absolute;
