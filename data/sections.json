@@ -1,0 +1,43 @@
+{
+	"data":{
+		"sections":[
+		{
+			"id":4,
+			"title": "terrific new",
+			"image": "img/post1.jpg",
+			"art":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, quidem, veritatis. Quae nihil reiciendis autem illo officiis voluptatem, ab, maiores suscipit. Obcaecati, nisi sed ut ab molestiae minima rem vero! "
+		},
+		{
+		"id":5,
+			"title": "terrific new",
+			"image": "img/colors.png",
+			"art":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, quidem, veritatis. Quae nihil reiciendis autem illo officiis voluptatem, ab, maiores suscipit. Obcaecati, nisi sed ut ab molestiae minima rem vero! "
+		},
+		{
+		"id":6,
+			"title": "terrific new",
+			"image": "img/pez.png",
+			"art":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, quidem, veritatis. Quae nihil reiciendis autem illo officiis voluptatem, ab, maiores suscipit. Obcaecati, nisi sed ut ab molestiae minima rem vero! "
+		},
+		{
+		"id":7,
+			"title": "terrific new",
+			"image": "img/simple.jpg",
+			"art":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, quidem, veritatis. Quae nihil reiciendis autem illo officiis voluptatem, ab, maiores suscipit. Obcaecati, nisi sed ut ab molestiae minima rem vero! "
+		},
+		{
+		"id":8,
+			"title": "terrific new",
+			"image": "http://pipsum.com/350x200.jpg",
+			"art":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, quidem, veritatis. Quae nihil reiciendis autem illo officiis voluptatem, ab, maiores suscipit. Obcaecati, nisi sed ut ab molestiae minima rem vero! "
+		}
+		],
+	"menu":[
+		{"id": 1, "title": "menu blog part"},
+		{"id": 2, "title": "menu blog part"},
+		{"id": 3, "title": "menu blog part"},
+		{"id": 4, "title": "menu blog part"},
+		{"id": 5, "title": "menu blog part"}
+	]
+	}
+}
